@@ -1,7 +1,7 @@
 **Real-Time Pizza Order Tracking App**
 
 
-This is a real-time pizza order tracking application built using Node.js, Express.js, MongoDB, HTML, Sass, and Razorpay for payment integration. The app features separate admin and user panels to manage pizza orders and track order status in real-time.
+This is a real-time food ordering application built using Node.js, Express.js, MongoDB, HTML, Sass, and Razorpay for payment integration. The app allows users to browse food items, place orders, and track order status in real-time. It includes separate admin and user panels for managing food listings, orders, and payments.
 
 **Features**
 **Real-Time Order Tracking:** 
